@@ -1,6 +1,6 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'ew96wSi0mCE', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 1' },
+    { id: 'ZQM1GS3uDz8', name: 'Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê' },
     { id: 'AXFKaHqEXUc', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
     { id: 't93FyKwCtjo', name: 'Princípios fundamentais: Princípios IMPLÍCITOS e EXPLÍCITOS' },
     { id: 'q_ZMMxTnrOE', name: 'Direitos e Garantias Fundamentais' },
