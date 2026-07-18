@@ -1,26 +1,17 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
     { id: 'ZQM1GS3uDz8', name: 'Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê' },
-    { id: 'AXFKaHqEXUc', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
-    { id: 't93FyKwCtjo', name: 'Princípios fundamentais: Princípios IMPLÍCITOS e EXPLÍCITOS' },
-    { id: 'q_ZMMxTnrOE', name: 'Direitos e Garantias Fundamentais' },
-    { id: 'YcF8MblD7xw', name: 'Garantias Fundamentais - Parte 2' },
-    { id: 'xaja8MkR-9s', name: 'Garantias Fundamentais - Parte 3' },
-    { id: '6u20d2lRDp8', name: 'Direitos Individuais e Coletivos - Parte 1' },
-    { id: 'NCwH8EIJYKY', name: 'Direitos Individuais e Coletivos - Parte 2' },
-    { id: 'af69nAmRUvQ', name: 'Remédios Constitucionais' },
-    { id: 'DlyJUYCeiGA', name: 'Direitos Sociais' },
-    { id: 'uz4K2abw--8', name: 'Direitos Sociais + QUESTÕES - Parte 2' },
-    { id: 'oDhBc411wjc', name: 'Nacionalidade - Parte 1' },
-    { id: 'UEf-WLDgfwI', name: 'Nacionalidade - Parte 2' },
-    { id: 'Xp4IsP6ATCM', name: 'DIREITOS POLITICOS - Parte 1' },
-    { id: 'QNf8UiSFHZ4', name: 'DIREITOS POLITICOS - Parte 2' },
-    { id: '0Lzwn9h8GvY', name: 'Organização do Estado - Parte 1' },
-    { id: 'vXEpO6zkG4g', name: 'Organização do Estado - Parte 2' },
-    { id: 'n3hhXNGONUM', name: 'Organização do Estado - Parte 3' },
-    { id: 'NqKgXA4C6P8', name: 'Organização do Estado - Parte 4' },
-    { id: '8fiHRgaQqhI', name: 'Organização do Estado - Parte 5' },
-    { id: 'KF4Qp-deTHU', name: 'Organização do Estado - Parte 6' }
+    { id: 'lgAarivNLJU', name: 'KIT BÁSICO' },
+    { id: '-64W_E0iMjo', name: 'LAÇADA INICIAL E CORRENTINHA' },
+    { id: 'J5vof2o91yM', name: 'PONTO BAIXO' },
+    { id: 'voNB2MvNxLU', name: 'PONTO ALTO' },
+    { id: 'KETfpt3qopo', name: 'MEIO PONTO ALTO' },
+    { id: 'OxiEZmDIZZA', name: 'PONTO BAIXÍSSIMO' },
+    { id: 'x6T7IuRpRxU', name: 'COMO FAZER CÍRCULO NORMAL E CÍRCULO MÁGICO' },
+    { id: '7bpeaouqKcE', name: 'COMO FAZER QUADRADO SIMPLES' },
+    { id: 'aytycL8GTnk', name: 'COMO FAZER AUMENTOS E DIMINUIÇÕES' },
+    { id: 'UBNKc_8zq-0', name: 'COMO FAZER ARREMATE' },
+    { id: 'muYXb--XdgI', name: 'TRABALHOS RECOMENDADOS' }
 ];
 
 // Estado atual
